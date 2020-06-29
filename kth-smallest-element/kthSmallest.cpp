@@ -3,19 +3,18 @@
 using namespace std;
 
 int main() {
-	//code
 	int t;
-	cin>>t;
+	scanf("%d",&t);
 	while(t--){
 	    int n;
-	    cin>>n;
+	    scanf("%d",&n);
 	    int a[n];
 	    for(int i=0;i<n;i++)
-	        cin>>a[i];
-	    int k;
-	    cin>>k;
-	    sort(a,a+n);
-	    cout<<a[k-1]<<endl;
+	        scanf("%d",&a[i]);
+	   int k;
+	   scanf("%d",&k);
+	   sort(a,a+n);
+	   cout<<a[k-1]<<endl;
 	}
 	return 0;
 }
