@@ -9,6 +9,7 @@ GeeksForGeeks, HackerRank and many more.
 - Linked Lists
 - Stack
 - Queue
+- Tree
 
 #### Updated day-by-day after solving problems.
 
