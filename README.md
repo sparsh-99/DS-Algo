@@ -9,7 +9,8 @@ GeeksForGeeks, HackerRank and many more.
 - Linked Lists
 - Stack
 - Queue
-- Tree
+- Binary Tree
+- BST
 
 #### Updated day-by-day after solving problems.
 
