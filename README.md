@@ -10,7 +10,7 @@ GeeksForGeeks, HackerRank and many more.
 - Stack
 - Queue
 - Binary Tree
-- BST
+- Binary Search Trees
 
 #### Updated day-by-day after solving problems.
 
