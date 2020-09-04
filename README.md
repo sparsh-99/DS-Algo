@@ -2,7 +2,7 @@
 In this repo, we have some questions of data structures and algorithms according to the company-wise like Amazon, Goldman-Sachs, Google, Facebook, etc.
 
 ### Coding websites-
-GeeksForGeeks, HackerRank and many more.
+GeeksForGeeks, HackerRank and LeetCode.
 
 ### Topics Covered:
 - Array
