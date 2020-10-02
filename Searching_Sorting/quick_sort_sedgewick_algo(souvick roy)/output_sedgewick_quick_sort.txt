@@ -1,0 +1,11 @@
+souvick@DESKTOP-2FMAH2P MINGW64 /e
+$ gcc sedgewick_sort.c -o sedgewick
+
+souvick@DESKTOP-2FMAH2P MINGW64 /e
+$ ./sedgewick
+
+enter size of array : 10
+The elements of the array is :
+5       4       10      2       9       4       5       9       2       8       
+The sorted array is :
+2       2       4       4       5       5       8       9       9       10
