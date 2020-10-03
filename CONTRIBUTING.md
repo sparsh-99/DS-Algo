@@ -28,4 +28,7 @@ Finally push your local repository to remote repository<br>
 <b>👉 Compare & Submit a Pull Request<br></b>
 We're happy to merge valid pull requests to this repository!<br>
 
+<b>👉 Also Star the repository<br></b>
+
+
 ### TADAA🌟🌟, Now you are an open-source contributor.... BOOM!!!!
