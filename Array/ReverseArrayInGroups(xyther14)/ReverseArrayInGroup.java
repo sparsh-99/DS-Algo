@@ -21,7 +21,7 @@ import java.io.*;
 class ReverseArrayInGroup {
     //function to get the reverese of array in groups
     static void reverseArrayInGroup(int[] arr, int k){
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         //stack used to reverse the array elements one by one
         Stack<Integer> stack = new Stack<>();
         for(int i = 0; i<arr.length;i++){
