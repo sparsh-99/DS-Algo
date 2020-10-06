@@ -1,8 +1,8 @@
 # DS-Algo HacktoberFest
-In this repo, we have some questions of data structures and algorithms
+In this repository, we have problems and their solutions, of different data structures and algorithms
 
 ## This is an open-source repository that collects programming problems.
-Anyone can work on any issue and you can also create your own issues, So start working on issue when you are done then request a pull create and I'll merge into main codebase.
+Anyone can work on any issue and you can also create your own issues, So start working on issue when you are done then create a pull request and I'll merge into main codebase.
 
 <h2>Important Steps</h2>
 (i) Do the coding of the problem you want to work on and made a PR in <b>'General Folder only'</b>.<br>
