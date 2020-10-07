@@ -32,6 +32,7 @@ Finally push your local repository to remote repository<br>
 We're happy to merge valid pull requests to this repository!<br>
 
 <b>👉 Also Star the repository<br></b>
+Delighted that you liked the repository!<br>
 
 
 ### TADAA🌟🌟, Now you are an open-source contributor.... BOOM!!!!<br><br>
