@@ -14,7 +14,6 @@ public:
 };
 */
 
-
 /* The method push to push element into the stack 2 */
 void twoStacks :: push1(int x)
 {
