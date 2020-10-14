@@ -67,7 +67,6 @@ class Merge_2_sorted_ll_In_ReverseOrder {
         }
     }
 }
-
 class GfG {
     Node mergeResult(Node node1, Node node2) {
         
