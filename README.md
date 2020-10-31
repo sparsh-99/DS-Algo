@@ -4,7 +4,7 @@ In this repository, we have problems and their solutions, of different data stru
 ## This is an open-source repository that collects programming problems.
 Anyone can work on any issue and you can also create your own issues, So start working on issue when you are done then create a pull request and I'll merge into main codebase.
 
-<h2>Important Steps</h2>
+<h3>Important Steps</h3>
 (i) Do the coding of the problem you want to work on and made a PR in <b>'General Folder only'</b>.<br>
 (ii) NOTE:- Filename should be in the format- "yourname_filename.extension".<br>
 (iii) And you're done!!<br>
