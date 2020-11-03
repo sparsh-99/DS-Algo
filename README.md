@@ -1,4 +1,4 @@
-# DS-Algo HacktoberFest
+# DS-Algo HacktoberFest 2020
 In this repository, we have problems and their solutions, of different data structures and algorithms
 
 ## This is an open-source repository that collects programming problems.
