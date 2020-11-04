@@ -12,7 +12,7 @@ Anyone can work on any issue and you can also create your own issues, So start w
 <br><br>
 Solve as many problems as you can and create pull request for every individual problem and 🌟 this repo for future reference.<br><br>
 
-### Steps to contribute<br>
+#### Steps to contribute<br>
 <b>👉 Fork this repository<br></b>
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.<br>
 
