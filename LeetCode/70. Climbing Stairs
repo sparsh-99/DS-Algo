@@ -1,0 +1,43 @@
+class Solution {
+    public int climbStairs(int n) {
+    /*
+        if(n==0 || n==1 || n==2) {return n;}
+        int f[]= new int[n+2];
+        f[0]=0;
+        f[1]=1;
+        f[2]=2;
+        for(int i=3;i<n;i++){
+            f[i]=f[i-1]+f[i-2];
+        }
+        return f[n-1];
+    
+    }
+}
+*/
+        
+         if(n==0||n==1) return  1;
+         int stepOne=1,stepTwo=1;
+         int result=0;
+         for(int i=2;i<=n;i++)
+         {
+             result=stepOne+stepTwo;
+             stepTwo=stepOne;
+             stepOne=result;
+         }
+         return result;
+      
+     // TLE in this solution
+        /*
+        int ans= rec(n);
+        return ans;
+    }
+private static int rec(int n){
+            if(n<=1) return 1;
+            int op1= rec(n-1);
+            int op2= rec(n-2);
+            return op1+op2;
+        }
+        */
+      
+}
+}
