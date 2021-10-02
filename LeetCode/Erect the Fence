@@ -1,3 +1,6 @@
+// problem link- https://leetcode.com/problems/erect-the-fence/
+// solution-
+
 class Solution {
     public int[][] outerTrees(int[][] points) {
         if(points==null || points.length==0) return new int[][]{};
