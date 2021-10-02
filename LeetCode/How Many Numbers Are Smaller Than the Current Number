@@ -1,3 +1,6 @@
+// problem link- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+// solution-
+
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int count;
