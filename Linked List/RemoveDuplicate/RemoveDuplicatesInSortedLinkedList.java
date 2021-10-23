@@ -1,6 +1,7 @@
 package com.company;
 
 //Remove Duplicates In A Sorted Linked List
+//Ques Link - https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 public class RemoveDuplicatesInSortedLinkedList {
    
